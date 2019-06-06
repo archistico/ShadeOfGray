@@ -1,0 +1,12 @@
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.pdb
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csprojResolveAssemblyReference.cache
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\MainWindow.baml
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\MainWindow.g.cs
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\App.g.cs
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray_MarkupCompile.cache
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.g.resources
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Properties.Resources.resources
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csproj.GenerateResource.Cache
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.exe
+D:\Programmazione\00Github\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.pdb
